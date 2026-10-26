@@ -2,28 +2,38 @@
 
 ## Suomeksi
 
-Tämä on Softamestari 2026 -finaalin oikea repo. Kloonaa se etukäteen, ennen suoraa lähetystä keskiviikkona 28.10.2026.
+Tämä on Softamestari 2026 -finaalin virallinen repositorio.
 
-Tässä tiedostossa ei vielä ole tehtävänantoa eikä palautusohjetta. Ne ilmestyvät, kun lähetys avaa finaalin. Silloin aja:
+Finaalilähetys järjestetään keskiviikkona 28.10.2026 klo 17.00–20.00 Suomen aikaa (Europe/Helsinki). Koodausaika on klo 17.00–19.00.
+
+Kloonaa tämä repo etukäteen. Ennen klo 17.00 tässä tiedostossa ei ole tehtävänantoa eikä palautusohjetta.
+
+Tasan klo 17.00 aja:
 
     git pull
 
-Avaushetkeä ei ole lukittu kelloon etukäteen. Odota lähetyksen merkkiä. Älä aloita sovelluksen tekemistä ennen kuin tehtävä on tässä tiedostossa.
+Silloin tämä teksti päivittyy finaalin tehtävänantoon ja ohjeisiin. Aloita sovelluksen toteutus vasta sen jälkeen, puhtaalta pöydältä. Valmista sovellusta tai sen pohjaa ei saa rakentaa etukäteen.
 
-Sarjoja on kaksi: junnut (alle 22-vuotiaat) ja yleinen sarja. Työkalut, kirjastot, frameworkit ja tekoäly ovat sallittuja. Valmista sovellusta tai sen pohjaa ei saa rakentaa etukäteen. Kisassa tuotettu koodi luovutetaan public domainiin.
+Sarjoja on kaksi: junnut (alle 22-vuotiaat) ja yleinen sarja. Työkalut, kirjastot, frameworkit ja tekoäly ovat vapaasti sallittuja. Kisassa tuotettu koodi luovutetaan vapaaseen yleiseen käyttöön (public domain).
 
-Ohjeet ovat myös englanniksi alla.
+Jos tulee ongelmia, ota yhteyttä WhatsAppilla tai tekstiviestillä numeroon 050 374 9132 (Pasi Kovanen).
+
+Ohjeet löytyvät alta myös englanniksi.
 
 ## In English
 
-This is the repository for the Softamestari 2026 final. Clone it in advance, before the live broadcast on Wednesday 28 October 2026.
+This is the official repository for the Softamestari 2026 final.
 
-This file does not yet contain the assignment or the submission instructions. They appear when the broadcast opens the final. Then run:
+The live final broadcast takes place on Wednesday 28 October 2026, 17:00–20:00 Finnish time (Europe/Helsinki). The coding time is 17:00–19:00.
+
+Clone it in advance. Before 17:00 this file does not contain the assignment or the submission instructions.
+
+At 17:00 sharp, run:
 
     git pull
 
-The opening moment is not fixed to a clock time in advance. Wait for the signal in the broadcast. Do not start building until the assignment is in this file.
+That replaces this text with the final assignment and instructions. Start building only after that, from a clean slate. Do not prepare the application, or a base for it, beforehand.
 
-There are two categories: juniors (under 22) and the open category. Tools, libraries, frameworks, and AI are allowed. Do not prepare the application, or a base for it, beforehand. Code produced in the contest is released into the public domain.
+There are two categories: juniors (under 22) and the open category. Tools, libraries, frameworks, and AI are allowed. Code produced in the contest is released into the public domain.
 
-The instructions are also in Finnish above.
+If you run into problems, contact Pasi Kovanen by WhatsApp or text message at 050 374 9132.
