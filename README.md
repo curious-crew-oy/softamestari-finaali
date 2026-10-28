@@ -1,43 +1,111 @@
-# Softamestari 2026 — finaali
+# Softamestari 2026 — finaali on käynnissä
 
 ## Suomeksi
 
-Tämä on Softamestari 2026 -finaalin virallinen repositorio.
+Finaali on käynnissä! Koodausaika päättyy klo 19.00, mutta työn voi ladata lomakkeella myös tämän jälkeen.
 
-Finaalilähetys järjestetään keskiviikkona 28.10.2026 klo 17.00–20.00 Suomen aikaa (Europe/Helsinki). Koodausaika on klo 17.00–19.00.
+Klo 19.00 alkaen työt esitellään suorassa lähetyksessä:
+1. **Junnusarja:** Jokaisella finalistilla on 3 minuuttia aikaa demota oma pelinsä.
+2. **Yleinen sarja:** Jokaisella finalistilla on 3 minuuttia aikaa demota oma pelinsä.
 
-Kloonaa tämä repo etukäteen. Ennen klo 17.00 tässä tiedostossa ei ole tehtävänantoa eikä palautusohjetta.
+Yleisen sarjan osallistujilla on siis junnujen esittelyn aikana hyvä hetki ladata oma työnsä, ja päinvastoin.
 
-Tasan klo 17.00 aja:
+<!-- TEHTAVA -->
+### Finaalitehtävä: Itämeren pelastuspeli
 
-    git pull
+Tervetuloa koodaamaan hyvää Itämerelle! Finaalin tavoitteena on luoda innostava verkkopeli, joka herättää rakkauden Itämereen ja rohkaisee pieniin ja suuriin tekoihin sen pelastamiseksi.
 
-Silloin tämä teksti päivittyy finaalin tehtävänantoon ja ohjeisiin. Aloita sovelluksen toteutus vasta sen jälkeen, puhtaalta pöydältä. Valmista sovellusta tai sen pohjaa ei saa rakentaa etukäteen.
+Valmiita pelejä tullaan hyödyntämään säätiön yleisötapahtumissa ja verkossa kaikkien ilona.
 
-JS-kirjastojen, frameworkien (kuten React, Vue, Svelte) ja UI-kirjastojen esiasentaminen repoon etukäteen on täysin sallittua – ja suosittelemme sitä lämpimästi! Kannattaa valmistella kehitysympäristö ja asentaa tarvittavat riippuvuudet valmiiksi jo ennen klo 17.00, jotta kahden tunnin koodausaika säästyy täysillä itse toteutukselle.
+#### Millainen peli on toiveissa?
 
-Sarjoja on kaksi: junnut (alle 22-vuotiaat) ja yleinen sarja. Työkalut, kirjastot, frameworkit ja tekoäly ovat vapaasti sallittuja. Kisassa tuotettu koodi luovutetaan vapaaseen yleiseen käyttöön (public domain).
+- **Kesto:** Nopea ja palkitseva pyrähdys.
+- **Kohderyhmä:** Nuoret ja aikuiset — peliin on helppo ja hauska hypätä mukaan heti.
+- **Laite:** Toimii suoraan selaimesta jaettavalla linkillä ilman asennuksia, myös puhelimen ruudulla.
+- **Ydin:** Peli ei vain kerro haasteista, vaan ennen kaikkea innostaa ja opettaa arjen tekoihin Itämeren puolesta.
+- **Toteutustapa:** Täysin vapaa! Olipa ideasi visailu, pulma, nopea reaktiopeli tai tarinallinen seikkailu — päästä luovuutesi valloilleen. Kaikki AI-työkalut ja kirjastot ovat vapaasti käytettävissäsi.
+
+#### Mihin tuomaristo kiinnittää huomiota?
+
+- **Itämeri-sydän:** Oivalluttaako ja innostaako peli tekemään hyvää Itämeren eteen?
+- **Pelaamisen ilo:** Onko peliä hauska, helppo ja koukuttava pelata?
+- **Mobiilikokemus:** Toimiiko peli sulavasti ja näyttääkö se hyvältä myös puhelimessa?
+- **Tekninen toimivuus:** Toimiiko kokonaisuus luotettavasti?
+<!-- /TEHTAVA -->
+
+### Miten palautat työn
+
+Zippaa projektikansio ja lataa se palautuslomakkeella:
+- Enimmäiskoko: 50 Mt (jätäthän `node_modules`-kansion pois paketista).
+- Liitä mukaan README, joka kertoo miten työ suoritetaan.
+- Työ on pelkkä frontend-palvelu: ei omaa palvelinta, tietokantaa tai backendiä. Valmiit kirjastot ja frameworkit ovat sallittuja.
+
+Lomake kysyy samat tiedot kuin ilmoittautumislomake softamestari.fi-sivustolla sekä zip-tiedoston:
+
+- Valitse sarja: Junnusarja (Finaalipäivänä alle 22-vuotiaat koodilupaukset) tai Yleinen sarja (Avoin kaikille)
+- Nimi
+- Sähköpostiosoite
+- Hyväksyn kilpailun säännöt ja tietosuojaselosteen
+
+Palautusosoite:
+
+https://softamestari.curious.fi/finaali/ALUPnZxjRF6Xp8J8EZR05l-L
+
+Voit palauttaa työn vain kerran – onnistunutta palautusta ei voi enää muuttaa tai korvata uudella. Jos siirto katkeaa ennen kuin zip on tallessa, sen voi lähettää uudelleen.
 
 Jos tulee ongelmia, ota yhteyttä WhatsAppilla tai tekstiviestillä numeroon 050 374 9132 (Pasi Kovanen).
 
-Ohjeet löytyvät alta myös englanniksi.
-
 ## In English
 
-This is the official repository for the Softamestari 2026 final.
+The final is running! Coding time ends at 19:00, but submissions can still be uploaded via the form afterwards.
 
-The live final broadcast takes place on Wednesday 28 October 2026, 17:00–20:00 Finnish time (Europe/Helsinki). The coding time is 17:00–19:00.
+From 19:00 onwards, the finalists demo their games live on stream:
+1. **Junior category:** Each finalist has 3 minutes to demo their game.
+2. **Open category:** Each finalist has 3 minutes to demo their game.
 
-Clone it in advance. Before 17:00 this file does not contain the assignment or the submission instructions.
+Contestants in the open category have a good window to upload their work during the junior demos, and vice versa.
 
-At 17:00 sharp, run:
+<!-- TASK -->
+### Final Challenge: Save the Baltic Sea Game
 
-    git pull
+Welcome to code for good for the Baltic Sea! The goal of the finals is to create an inspiring web game that sparks love for the Baltic Sea and encourages both small and big actions to save it.
 
-That replaces this text with the final assignment and instructions. Start building only after that, from a clean slate. Do not prepare the application, or a base for it, beforehand.
+The finished games will be showcased at the foundation's public events and online for everyone to enjoy.
 
-Pre-installing JS libraries, frameworks (such as React, Vue, Svelte), and UI components into your repository beforehand is completely allowed – in fact, we strongly recommend it! Set up your development environment and install dependencies before 17:00 so you can spend the full 2-hour coding window on building your solution.
+#### What kind of game are we looking for?
 
-There are two categories: juniors (under 22) and the open category. Tools, libraries, frameworks, and AI are allowed. Code produced in the contest is released into the public domain.
+- **Duration:** A quick and rewarding experience.
+- **Target audience:** Youth and adults — easy and fun to jump straight into.
+- **Platform:** Runs directly in the browser via a shareable link without any installation, including on mobile screens.
+- **Core focus:** The game shouldn't just highlight the challenges, but above all inspire and teach everyday actions for the Baltic Sea.
+- **Implementation:** Completely open! Whether your idea is a quiz, a puzzle, a fast-paced reaction game, or a story-driven adventure — unleash your creativity. All AI tools and libraries are completely free to use.
+
+#### What will the jury focus on?
+
+- **Baltic Sea Heart:** Does the game provide insights and inspire positive action for the Baltic Sea?
+- **Joy of Play:** Is the game fun, accessible, and engaging to play?
+- **Mobile Experience:** Does it run smoothly and look great on a phone?
+- **Technical Performance:** Does everything run reliably?
+<!-- /TASK -->
+
+### How to submit
+
+Zip your project folder and upload it with the form:
+- Maximum size: 50 MB (please exclude `node_modules` from the package).
+- Include a README explaining how to run the work.
+- The work is a frontend-only service: no server, database, or backend of your own. Existing libraries and frameworks are allowed.
+
+The form asks for the same details as the registration form on softamestari.fi, plus the zip file:
+
+- Category: Junior category (Under 22 on the day of the final) or Open category (Open to everyone)
+- Name
+- Email address
+- I accept the contest rules and the privacy notice
+
+Upload address:
+
+https://softamestari.curious.fi/finaali/ALUPnZxjRF6Xp8J8EZR05l-L
+
+You can submit your work only once – a successful submission cannot be replaced or updated. If the transfer breaks before the zip is stored, you may send it again.
 
 If you run into problems, contact Pasi Kovanen by WhatsApp or text message at 050 374 9132.
